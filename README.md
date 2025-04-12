@@ -1,1 +1,1 @@
-# password-strenght
+# Password-Strength-Meter
